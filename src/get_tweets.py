@@ -12,10 +12,11 @@
 import oauth2 as oauth
 import urllib2 as urllib
 
-TOKEN_KEY = "976375622-B0MT8YAVZHyMZYwJ3ORz4d4dHiDCVy3NoRxBQyZ8"
-TOKEN_SECRET = "bMwCseuhsFawaPLFaIQu8MWA0oVtbjaOs8bOSgAXzkEmQ"
-CONSUMER_KEY = "zL5yjX3aLtRsRRv571Nchw"
-CONSUMER_SECRET = "2HeCrVNNmh26rF5iqgVG9t1a7DybbBcXjqJWkA5Q"
+# get your own!
+TOKEN_KEY = ""
+TOKEN_SECRET = ""
+CONSUMER_KEY = ""
+CONSUMER_SECRET = ""
 
 oauth_token = oauth.Token(key = TOKEN_KEY, secret = TOKEN_SECRET)
 oauth_consumer = oauth.Consumer(key = CONSUMER_KEY, secret = CONSUMER_SECRET)
