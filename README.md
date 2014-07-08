@@ -38,7 +38,7 @@ Python (tested with 2.7.7)
 
 ### Installation
 
-- No installation; just download and run scripts
+No installation; just download and run scripts
 
 ```python
 # get_tweets.py
