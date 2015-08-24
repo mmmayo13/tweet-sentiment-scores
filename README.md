@@ -2,7 +2,7 @@
 
 ### Introduction
 
-Scripts for capturing tweets, creating sentiment dictionary, processing & scoring tweet sentiments, written in Python. These scripts were written to facilitate the clustering of tweet length & sentiment scores in [this research paper](http://arxiv.org/pdf/1406.3287v1.pdf).
+Scripts for capturing tweets, creating sentiment dictionary, processing & scoring tweet sentiments, written in Python. These scripts were written to facilitate the clustering of tweet length & sentiment scores in [this research paper](http://arxiv.org/pdf/1406.3287v3.pdf).
 
 Twitter app authentication credentials are required for use of get_tweets.py. Acquire these [here](https://dev.twitter.com/).
 
